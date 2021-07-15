@@ -2,7 +2,7 @@
 //  Challenge13_SwiftUI_SlotsApp.swift
 //  Challenge13-SwiftUI-Slots
 //
-//  Created by Shepherd on 7/13/21.
+//  Created by Andrew Gholson on 7/13/21.
 //
 
 import SwiftUI
